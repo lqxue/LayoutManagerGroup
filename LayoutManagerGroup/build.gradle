@@ -22,6 +22,6 @@ android {
 }
 
 dependencies {
-    compileOnly "androidx.appcompat:appcompat:1.2.0-alpha02"
-    compileOnly "androidx.recyclerview:recyclerview:1.0.0"
+    implementation "androidx.appcompat:appcompat:1.2.0-alpha02"
+    implementation "androidx.recyclerview:recyclerview:1.0.0"
 }
